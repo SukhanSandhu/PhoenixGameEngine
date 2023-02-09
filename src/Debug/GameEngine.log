@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\brinx\source\repos\GameEngine\GameEngine\ui\Control.h(30,11): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\brinx\source\repos\GameEngine\GameEngine\ui\Control.h(35,11): warning C4244: 'return': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\brinx\source\repos\GameEngine\GameEngine\ui\Label.h(24,42): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\brinx\source\repos\GameEngine\GameEngine\ui\Label.h(25,44): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\brinx\source\repos\GameEngine\GameEngine\ui\Label.h(74,36): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\brinx\source\repos\GameEngine\GameEngine\ui\Label.h(75,38): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\brinx\source\repos\GameEngine\GameEngine\model loader\OBJLoader.h(110,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brinx\source\repos\GameEngine\GameEngine\model loader\OBJLoader.h(123,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brinx\source\repos\GameEngine\GameEngine\model loader\OBJLoader.h(138,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brinx\source\repos\GameEngine\GameEngine\game\Game.h(78,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\brinx\source\repos\GameEngine\GameEngine\game\Game.h(53,9): warning C4930: 'Model treeModel(void)': prototyped function not called (was a variable definition intended?)
+  GameEngine.vcxproj -> C:\Users\brinx\source\repos\GameEngine\Debug\GameEngine.exe
